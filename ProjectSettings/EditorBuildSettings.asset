@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: a171a33d0038ec4418e64c85e6ee06be
+  - enabled: 1
+    path: "Assets/Scenes/\u0106wiczenie102.unity"
+    guid: 85c1b6b0019517d4da855df0f0fc0066
+  - enabled: 1
+    path: "Assets/Scenes/Wahad\u0142oMatematyczne.unity"
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: "Assets/Scenes/Wahad\u0142oRewersyjne.unity"
+    guid: 2c4f5cdcd51fd3447925fc6d7ace58fa
+  - enabled: 1
+    path: "Assets/Scenes/Wahad\u0142oRewersyjneReducedLengt.unity"
+    guid: 2c0661f8cf098c2448721b894e133f29
+  - enabled: 0
+    path: "Assets/Scenes/\u0106wiczenie204.unity"
+    guid: 3cc7ffd95d9667843b91e0300a69da44
+  - enabled: 0
+    path: "Assets/Scenes/\u0106wiczenie324.unity"
+    guid: 3b3cdb8339d93604d9c6a367b1c16363
+  m_configObjects: {}
